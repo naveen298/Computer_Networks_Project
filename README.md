@@ -4,8 +4,7 @@ Implementation of RFC3366 using socket programming. Stop and wait ARQ and select
 * Operating System : Ubuntu 
 
 ### Patch 1:
-This patch update the compatible string as per the new upstream convention from Rob H.
+text.
 ```
-Previously if was in the format <vendor>,<cc>-<target> like "qcom,videocc-sdm845"
-Now we have updated it to <vendor>,<target_name>-<cc> like "qcom,sdm845-videocc".
+text
 ```
